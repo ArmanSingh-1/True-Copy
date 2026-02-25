@@ -1,0 +1,12 @@
+# Ignore virtual environment and cache file
+.vscode
+Server/venv
+Server/__pycache__
+.DS_Store
+Server/setup/__pycache__
+
+# Ignore .env file
+.env
+
+# Ignore planner
+true_copy.txt
